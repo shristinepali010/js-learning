@@ -36,8 +36,5 @@
 // console.log(myn2);
 
 
-const arr = [10 ,20,30,40];
 
-arr.splice(1,2,25,35);
-console.log(arr);
 
