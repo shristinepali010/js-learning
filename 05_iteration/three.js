@@ -39,7 +39,8 @@ const myobject ={
     'game1': "NFS",
     'game2': "spiderman"
 }
-for (const [key,value] of myobject) {
-    console.log(key ,':-',value);
+// for (const [key,value] of myobject) {
+//     console.log(key ,':-',value);
     
-}
+// }
+
